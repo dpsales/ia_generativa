@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-core
+chromadb
+huggingface_hub
+PyPDF2
+python-docx
+tqdm
